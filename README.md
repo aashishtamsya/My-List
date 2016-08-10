@@ -4,7 +4,7 @@ My List is a simple gesture driven to-do list and task manager app that helps yo
 
 ## Coming soon on Appstore
 
-[![Download From Appstore](/Resources/availableinappstore.png)](https://itunes.apple.com/us/app/my-list-gesture-driven-to/id1139455185 =200x69)
+[![Download From Appstore](/Resources/availableinappstore.png =200x69)](https://itunes.apple.com/us/app/my-list-gesture-driven-to/id1139455185)
 
 ## App Preview
 
