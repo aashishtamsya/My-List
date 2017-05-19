@@ -20,3 +20,7 @@ My List is a simple gesture driven to-do list and task manager app that helps yo
 ## Version History
 
 *	1.0.1 (192)
+
+## Disclaimer
+
+Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc., registered in the U.S. and other countries.
